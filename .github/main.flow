@@ -1,6 +1,6 @@
 task "ci" {
   uses = "google-container-builder"
-  config = "cloudbuild1.yaml"
+  config = "cloudbuild2.yaml"
 
   # Choose a CI provider
 }
